@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>18.0.238.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <GraphicFile>..\Bajakeyboard.png</GraphicFile>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
+    <WelcomeFile>welcome.htm</WelcomeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder>Bahnar Jarai</Folder>
+    <AddUninstallEntry/>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Bahnar Jarai</Name>
+    <Copyright URL="">Copyright © Suk Buponang</Copyright>
+    <Author URL="mailto:sukbuponang@gmail.com">RCom Suk</Author>
+    <Description URL="">Bahnar – Jarai Telex Keyboard enables easy typing in Bahnar and Jarai languages using familiar Telex rules. Designed for native speakers to write in their languages on smartphones and computers.</Description>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\bahnar_jarai.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\bahnar_jarai.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\bahnar_jarai.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\Charis-Bold.ttf</Name>
+      <Description>Font Charis Bold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\Charis-BoldItalic.ttf</Name>
+      <Description>Font Charis Bold Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\Charis-Italic.ttf</Name>
+      <Description>Font Charis Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\Charis-Medium.ttf</Name>
+      <Description>Font Charis Medium</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\Charis-MediumItalic.ttf</Name>
+      <Description>Font Charis Medium Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\Charis-Regular.ttf</Name>
+      <Description>Font Charis</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\Charis-SemiBold.ttf</Name>
+      <Description>Font Charis SemiBold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\Charis-SemiBoldItalic.ttf</Name>
+      <Description>Font Charis SemiBold Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\DoulosSILR.ttf</Name>
+      <Description>Font Doulos SIL</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\NotoSans-Italic-VariableFont_wdth,wght.ttf</Name>
+      <Description>Font Noto Sans Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts For Bahnar - Jarai\NotoSans-VariableFont_wdth,wght.ttf</Name>
+      <Description>Font Noto Sans Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\baja keyboard.png</Name>
+      <Description>File baja keyboard.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>huongdan.htm</Name>
+      <Description>File huongdan.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\Bajakeyboard.png</Name>
+      <Description>File Bajakeyboard.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <ID>bahnar_jarai</ID>
+      <OSKFont>..\Fonts For Bahnar - Jarai\Charis-Regular.ttf</OSKFont>
+      <DisplayFont>..\Fonts For Bahnar - Jarai\Charis-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="bdq-Latn-VN">Bahnar</Language>
+        <Language ID="jra-Latn-VN">Jarai</Language>
+        <Language ID="vi-Latn-VN">Vietnamese</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <RelatedPackages>
+    <RelatedPackage ID="bahnar_classic.kmp"/>
+    <RelatedPackage ID="jarai_unicode.kmp"/>
+  </RelatedPackages>
+  <Strings/>
+</Package>

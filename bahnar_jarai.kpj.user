@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>4</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\bahnar_jarai.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_16fce3980bbd7efd508a2234d82313c7</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\bahnar_jarai.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_05b3d485acb23ef740dc44e33777d580</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\bahnar_jarai.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_560ff7439ff33db1c124941a7ad90b68</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\baja keyboard.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_29f8a13355ccc59a1c1c0cd2a860bd58</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\Bajakeyboard.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3ab0d18327a268b95b1bff523dccaa2a</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\Bahnar - Jarai.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_6f34874ea2bcf6c9cfe071e1dacd656e</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\Bahnar - Jarai.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2811efd3047a2e5c82fb8973a4a5fad0</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\bahnar_jarai.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_83b60bb3db439f0a903d3bb26c9e612e</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\bahnar_jarai.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_781005e70d3f69268e6cd454b1408bf8</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\bahnar_jarai.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <DisplayMapFont>Consolas|-9|   |0</DisplayMapFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_790cced3503ad5463af7e03965b7f72d</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\bahnar_jarai.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ab79b79480ea5cebf29d9baab2808f7c</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\bahnar_jarai.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_397e3a29d5ae014ca7df70e782f0704f</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\huongdan.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_aeb4ab3939d8c3f2c39d00096d2176e0</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\build\bahnar_jarai.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_616c6ceb4d3dde6594576ea10b81f392</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\build\bahnar_jarai.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_af9c9140382f3768cc91b1533b600887</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\build\bahnar_jarai.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a762b03ad08fa96068e249013b2f5ba0</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\Fonts For Bahnar - Jarai\DoulosSILR.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_dc5f3a2da0b9a69fe15f54beac0184b6</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\baja keyboard.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ade8814806cd46f493cd3f9700476ede</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\Bajakeyboard.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5e162abce78137729963ffe0e5f573db</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\Bahnar - Jarai.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_45b9f5e7a344bae95432f6e0f5a7f90a</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\Bahnar - Jarai.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0e377ff996ebb8f400b8a6b58d0597a3</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\bahnar_jarai.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c037157358a5f683b12d18314691ac81</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\bahnar_jarai.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5344b54dfe0dbea214729b52dc3411e7</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\bahnar_jarai.kmn</FullPath>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_fdc817e3dc5c295cb64ff9101494d4b0</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\bahnar_jarai.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9608d9782241bcfe1972da0cb83e1ee8</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\bahnar_jarai.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_11216c6653e6cc0fe94daaf54e7318e9</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\release\b\bahnar_jarai\bahnar_jarai.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ad44dad6cedf8425972802ff76f83ed8</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\build\bahnar_jarai.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_eff56b0550a3380d466a98c9efa4028e</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\build\bahnar_jarai.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_539f2cb37f9024a32ff4b67059bc3adc</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\build\bahnar_jarai.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_189c09763b2c0c20c5b5bded45f0e5eb</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_74c2a5a733e3135e95317de5066a694d</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_60744d5e83cf07708a1edff7ff4a9ba8</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e8b5a5de6b025a1e60d390dc60cded8c</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\Charis-Bold.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3f936e682a01424324d78320e004c17f</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\Charis-BoldItalic.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_547b6bad94d9cb745d98d7dd48202d3f</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\Charis-Italic.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_31bae0d12f5364190e8e360f2508128e</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\Charis-Medium.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ce2ebd628067daab7eebd99307f150b2</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\Charis-MediumItalic.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2f806c573da71d2193fae633d5663b48</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\Charis-Regular.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_66a4b4eae67ff38c4d0eed7aad007709</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\Charis-SemiBold.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_23b729bb380d610758ef6a77084f30ab</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\Charis-SemiBoldItalic.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a6d42a36e2ee0bad1184af844f3d7140</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\DoulosSILR.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_22fe0222255ca327f0bd92c29e2a8ab2</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\NotoSans-Italic-VariableFont_wdth,wght.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ec91dce392b168902716bf9065aad374</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Fonts For Bahnar - Jarai\NotoSans-VariableFont_wdth,wght.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8e750e9ed6e767e9fd451b7b7eb9b33b</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\baja keyboard.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_02c43d538ca2754603dd89674a6d4bff</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\huongdan.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5e582eb10cb5bca2e3230cd54e245cc8</ID>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\..\release\b\bahnar_jarai\..\Bajakeyboard.png</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>bahnar_jarai.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\bahnar_jarai.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>huongdan.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\huongdan.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>bahnar_jarai.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\rcoms\OneDrive\Documents\Keyman Developer\Projects\bahnar_jarai\source\bahnar_jarai.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
